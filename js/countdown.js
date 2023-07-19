@@ -8,7 +8,7 @@ countdown();
 
 function countdown() {
   // ATTENTION - Ianuary is 0, February is 1 ......
-  var launch_date = new Date(Date.UTC(2023, 6, 18, 0, 0));
+  var launch_date = new Date(Date.UTC(2023, 7, 15, 0, 0));
   // 11 dec
   var days;
   var hours;
