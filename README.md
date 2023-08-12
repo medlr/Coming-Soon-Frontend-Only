@@ -1,1 +1,1 @@
-# Coming-Soon-Frontend-Only
+# Redirect to beta.medlr.in 
